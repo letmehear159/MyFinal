@@ -8,6 +8,6 @@ namespace MyFinal
 {
     internal class Person
     {
-
+        private string name = "Truyen";
     }
 }
